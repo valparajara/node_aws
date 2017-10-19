@@ -1,0 +1,28 @@
+{
+  "name": "node_aws",
+  "version": "1.0.0",
+  "description": "Exemplo simples de RESTful API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valparajara/node_aws.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Valéria Parajara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valparajara/node_aws/issues"
+  },
+  "homepage": "https://github.com/valparajara/node_aws#readme",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongoose": "*",
+    "request": "^2.74.0"
+  }
+}
